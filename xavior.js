@@ -595,10 +595,10 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 	    
             case 'sc': {
                 anu = `*Kalian Bisa Cek Yt XaviorOfc:*
-https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g
+https://saweria.co/IyanMd
 
-*Recode By : Xavior88*
-https://github.com/Xavior88`
+*𝚒𝚢𝚊𝚗*
+https://saweria.co/IyanMd`
 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
@@ -4838,8 +4838,8 @@ let btn = [{
 
 case 'donasi': {
 anu = `╭─❏ *『 DONASI 』*
-│ ➪ Dana : 081511480762
-│ ➪ Gopay : 081511480762
+│ ➪ Dana : 089516947204
+│ ➪ Gopay : 089516947204
 ╰───────────────❏
 
 *TERIMA KASIH BUAT YANG SUDAH MAU DONASI🤗*`
@@ -4962,19 +4962,19 @@ case 'contributor': {
 	anu = `*THANKS TO :*
 
 Adiwajshing :
-https://github.com/Adiwajshing
+https://saweria.co/IyanMd
 Dika Ardnt :
-https://github.com/DikaArdnt
+https://saweria.co/IyanMd
 Fandy :
-https://github.com/NzrlAfndi
+https://saweria.co/IyanMd
 Abuzz :
-https://github.com/Abuzzpoet
+https://saweria.co/IyanMd
 Sonel :
-https://github.com/sonelstore
+https://saweria.co/IyanMd
 Nanang:
-https://github.com/Xavior88
+https://saweria.co/IyanMd
 YahyaGanz:
-https://github.com/AzzBott679
+https://saweria.co/IyanMd
 Penyedia Rest Api :
 https://zenzapis.xyz`
 	let btn = [{
